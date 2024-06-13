@@ -1,6 +1,7 @@
 # Capstone_Guvi
 Guvi_Capstone_01_Project
 Census Data Analysis Dashboard
+
 This Streamlit web application provides an interactive dashboard for analyzing census data from the year 2011. It connects to a MySQL database and allows users to explore various demographic and socio-economic indicators at the district and state level in India.
 
 Table of Contents
@@ -11,7 +12,6 @@ Queries Implemented
 Technologies Used
 Future Enhancements
 Contributing
-License
 Features
 Dynamic Query Selection: Users can select from a dropdown menu to view different demographic statistics such as total population, literacy rates, household characteristics, and more.
 
@@ -41,7 +41,7 @@ Run the application:
 
 bash
 Copy code
-streamlit run app.py
+streamlit run census_app.py
 Open the provided local host URL in your web browser to access the dashboard.
 
 Usage
